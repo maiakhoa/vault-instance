@@ -3,7 +3,21 @@ entries:
   vault-instance:
   - apiVersion: v1
     appVersion: v1.0.0
-    created: "2021-09-16T20:41:12.127535+07:00"
+    created: "2021-09-16T21:21:01.457414+07:00"
+    description: a chart for creating a Vault instance via the vault operator
+    digest: cdec9941e47f9250d78225bdc123cf981fc1904a71dd5d9f51746fcc818b4d18
+    home: https://github.com/maiakhoa/vault-instance
+    keywords:
+    - vault
+    name: vault-instance
+    sources:
+    - https://github.com/maiakhoa/vault-instance
+    urls:
+    - https://maiakhoa.github.io/vault-instance/charts/vault-instance-1.1.0.tgz
+    version: 1.1.0
+  - apiVersion: v1
+    appVersion: v1.0.0
+    created: "2021-09-16T21:21:01.457075+07:00"
     description: a chart for creating a Vault instance via the vault operator
     digest: db15da3fd8d742cc4b71dd4102897b8009f08bdd7d67476ec465616d68712755
     home: https://github.com/maiakhoa/vault-instance
@@ -15,4 +29,4 @@ entries:
     urls:
     - https://maiakhoa.github.io/vault-instance/charts/vault-instance-1.0.0.tgz
     version: 1.0.0
-generated: "2021-09-16T20:41:12.127102+07:00"
+generated: "2021-09-16T21:21:01.456568+07:00"
