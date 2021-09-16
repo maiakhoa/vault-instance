@@ -5,6 +5,6 @@ version: 1.0.0
 appVersion: v1.0.0
 keywords:
   - vault
-home: https://github.com/jenkins-x-charts/vault-instance
+home: https://github.com/maiakhoa/vault-instance
 sources:
-- https://github.com/jenkins-x-charts/vault-instance
+- https://github.com/maiakhoa/vault-instance
