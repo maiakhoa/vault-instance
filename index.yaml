@@ -13,5 +13,5 @@ entries:
     sources:
     - https://github.com/maiakhoa/vault-instance
     urls:
-    - vault-instance-1.0.22.tgz
+    - https://github.com/maiakhoa/vault-instance/archive/refs/tags/v1.0.22.tar.gz
     version: 1.0.22
