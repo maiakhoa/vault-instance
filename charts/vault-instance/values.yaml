@@ -1,4 +1,4 @@
-bankVaultsImage: banzaicloud/bank-vaults:1.10.0
+bankVaultsImage: banzaicloud/bank-vaults:1.14.1
 
 existingTlsSecretName: ""
 
